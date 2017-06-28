@@ -1,0 +1,7 @@
+[submodule "themes/hugo_theme_robust"]
+	path = themes/hugo_theme_robust
+	url = https://github.com/dim0627/hugo_theme_robust
+[submodule "public"]
+	path = public
+	url = https://github.com/amlun/amlun.github.io
+	branch = master

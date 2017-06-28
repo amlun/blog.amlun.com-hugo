@@ -1,0 +1,5 @@
+baseURL = "https://amlun.github.io/"
+languageCode = "en-us"
+title = "Amlun Site"
+publishDir = "public"
+
